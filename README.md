@@ -1,4 +1,18 @@
-# MyAWSPlanet
+# Test
+
+## Run
+mvn spring-boot:run
+
+## Build jar
+mvn clean verify
+
+## CP
+cp target/*.jar include 
+git status
+
+
+
+## MyAWSPlanet
 
 The corresponding blog posts for this repository can be found here:
 
