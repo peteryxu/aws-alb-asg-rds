@@ -10,6 +10,11 @@ mvn clean verify
 cp target/*.jar include 
 git status
 
+## DONE
+
+### 0111
+Cognito sign-in working:  User Authentication with Amazon Cognito in Spring Boot Application
+https://appsdeveloperblog.com/user-authentication-with-aws-cognito-in-spring-boot-application/
 
 
 ## MyAWSPlanet
